@@ -4,7 +4,7 @@ Crearás el prototipo de tu primera aplicación web, en la cual participarán de
 
 ## Objetivos :triangular_flag_on_post:
 
-:one: Aplicar lógica computacional para desenvolverse con los comandos básicos en la resolución de problemas.
-:two: Manipular los objetos por modelos mostrando sus conocimientos en Programación Orientada a Objetos.
-:three: Administrar datos a través de listas.
-:four: Interactuar y comunicarse con la base de datos y el front end mediante APIs
+- :one: Aplicar lógica computacional para desenvolverse con los comandos básicos en la resolución de problemas.
+- :two: Manipular los objetos por modelos mostrando sus conocimientos en Programación Orientada a Objetos.
+- :three: Administrar datos a través de listas.
+- :four: Interactuar y comunicarse con la base de datos y el front end mediante APIs
